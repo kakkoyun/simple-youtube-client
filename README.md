@@ -22,6 +22,14 @@ Click [here](https://github.com/kakkoyun/simple-youtube-client/releases) then do
 	> npm start
 ```
 
+##NOTICE##
+
+Please, update your youtube api key accordingly, in `index.js`.
+
+```
+    const API_KEY = 'KEY_COMES_HERE';
+```
+
 ##### Initialized using ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
